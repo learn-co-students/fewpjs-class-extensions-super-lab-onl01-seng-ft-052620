@@ -33,3 +33,5 @@ class Evergreen extends Tree {
         return super.definition() + " Evergreens keep their leaves all year round."
     }
 }
+
+// this works too! return `${super.definition()} Evergreens keep their leaves all year round.`
